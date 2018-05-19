@@ -14,7 +14,7 @@
 // Update inteval (in mS) for the flywheel control loop
 #define FW_LOOP_SPEED              25
 
-// Maximum power we want to send to the flywheel motors
+//Maximum power we want to send to the flywheel motors
 #define FW_MAX_POWER              120
 
 
